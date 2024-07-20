@@ -22,7 +22,7 @@ BOOTSTRAP
 4 Open the link "localhost/phpmyadmin/"
 5 Click on new at sidebar and create a database name "RIDHOHOTEL"
 After clicking database click import and select the file "RIDHOHOTEL.sql"
-Open the link "http://localhost/Hotel-Management-System/"
+Open the link "http://localhost/RIDHO-HOTEL/"
 Now register and login
 
 
