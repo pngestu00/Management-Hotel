@@ -37,4 +37,3 @@ Password : 1234
 
 For any inquiries, please contact pngestu00.
 
-[Screenshot 2024-07-20 125645.png](https://github.com/pngestu00/Management-Hotel/blob/f7e13eddd6957658173d75babf49f13c20f434a0/Screenshot%202024-07-20%20125645.png)
