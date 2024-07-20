@@ -24,7 +24,7 @@ BOOTSTRAP
 After clicking database click import and select the file "RIDHOHOTEL.sql"
 Open the link "http://localhost/Hotel-Management-System/"
 Now register and login
-```![uiuser](https://github.com/user-attachments/assets/3018996d-5f0d-42b6-b2f2-7105bf9a962d)
+
 
 
 
